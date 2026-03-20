@@ -1,0 +1,4 @@
+project_id = "ewwmccekqqhtjlymefmz"
+
+[functions.gaming-chat]
+verify_jwt = false
